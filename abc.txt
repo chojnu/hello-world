@@ -3,9 +3,6 @@ testest
 
 
 dif tm
-<<<<<<< HEAD
 
 
 local
-=======
->>>>>>> refs/remotes/origin/master
